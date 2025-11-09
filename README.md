@@ -1,1 +1,1 @@
-# Techniques-r-centes-en-fouille-de-donn-es-et-embeddings
+# Techniques-récentes-en-fouille-de-données-et-embeddings
